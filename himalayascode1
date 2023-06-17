@@ -1,0 +1,14 @@
+int i=1;
+while (i<10)
+{
+i+=1;
+//This code executes 10 times.
+}
+The do..while blocks allows you tpo evaluate the condition at the end.
+int i=1;
+do
+{
+i+=1;
+// This code executes 10 times.
+}
+while (i<10);
